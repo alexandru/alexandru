@@ -1,12 +1,12 @@
 # Hi, I'm Alex 👋👨🏻‍💻
 
-I'm the author of [Monix](https://monix.io), a [Typelevel](https://typelevel.org) contributor, a Scala/FP enthusiast, father, and husband, living in 🇷🇴 Bucharest, Romania.
+I'm the author of [Monix](https://monix.io), a [Typelevel](https://typelevel.org) contributor, a Scala+FP+OOP+JVM enthusiast, living in 🇷🇴 Bucharest, Romania.
 
 🌍 <a href="https://alexn.org/" target="_blank">Personal Website</a> <br>
 🐦 <a href="https://twitter.com/alexelcu" target="_blank">Twitter</a> <br/>
 🕺 <a href="https://www.linkedin.com/in/alexelcu/" target="_blank">LinkedIn</a>
 
-## Donate
+### Donate
 
 Help me to cover ongoing website costs, tooling and services needed for Open Source development, or buy me coffee ☕️😋
 
