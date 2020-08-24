@@ -3,7 +3,7 @@
 🌍 <a href="https://alexn.org/" target="_blank">Personal Website</a> <br>
 🌎 <a href="https://alexn.org/about.html" target="_blank">About Me</a> <br>
 🌏 <a href="https://alexn.org/subscribe.html" target="_blank">Subscribe to my Blog</a> <br>
-🐦 Follow me on <a href="https://twitter.com/alexelcu" target="_blank">Twitter</a> or 🕺 <a href="https://www.linkedin.com/in/alexelcu/" target="_blank">LinkedIn</a>
+🐦 Follow me on <a href="https://twitter.com/alexelcu" target="_blank">Twitter</a> or 🕺<a href="https://www.linkedin.com/in/alexelcu/" target="_blank">LinkedIn</a>
 
 
 Help me cover ongoing costs (hosting, tooling), or get me a coffee ☕️😋
