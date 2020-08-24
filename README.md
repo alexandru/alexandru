@@ -8,6 +8,6 @@ I'm the author of [Monix](https://monix.io), a [Typelevel](https://typelevel.org
 
 ### Donate
 
-Help me to cover ongoing website costs, tooling and services needed for Open Source development, or buy me coffee ☕️😋
+Help me to cover ongoing costs with website hosting, tooling and services needed for my Open Source contributions, or technical blogging. And I won't say no to coffee ☕️😋
 
 <a href="https://www.patreon.com/bePatron?u=6102596"><img label="Become a Patron!" alt="Become a Patron!" title="Become a Patron!" src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" target="_blank" height="40" /></a>
