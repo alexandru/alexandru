@@ -1,4 +1,4 @@
-Hi, I'm Alex 👋👨🏻‍💻
+## Hi, I'm Alex 👋👨🏻‍💻
 
 🌍 <a href="https://alexn.org/" target="_blank">Personal Website</a> <br>
 🌎 <a href="https://alexn.org/about.html" target="_blank">About Me</a> <br>
