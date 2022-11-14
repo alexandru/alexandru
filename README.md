@@ -1,9 +1,9 @@
 ## Hi, I'm Alex 👋👨🏻‍💻
 
 🌍 <a href="https://alexn.org/" target="_blank">Personal Blog / Wiki</a> <br>
-🙋‍♂️ <a href="https://alexn.org/about/" rel="me" target="_blank">About Me</a> <br>
+🙋‍♂️ <a href="https://alexn.org/about/" rel="me nofollow" target="_blank">About Me</a> <br>
 📨 <a href="https://alexn.org/subscribe/" target="_blank">Subscribe</a> <br>
-⭐️ Also on 🌍 <a href="https://mastodon.social/@alexelcu" rel="me" target="_blank">Mastodon</a>, 🐦 <a href="https://twitter.com/alexelcu" rel="me" target="_blank">Twitter</a> or 🕺<a href="https://www.linkedin.com/in/alexelcu/" rel="me" target="_blank">LinkedIn</a>
+⭐️ Also on 🌍 <a href="https://mastodon.social/@alexelcu" rel="me nofollow" target="_blank">Mastodon</a>, 🐦 <a href="https://twitter.com/alexelcu" rel="me nofollow" target="_blank">Twitter</a> or 🕺<a href="https://www.linkedin.com/in/alexelcu/" rel="me nofollow" target="_blank">LinkedIn</a>
 
 
 Help me cover ongoing costs (hosting, tooling), or get me a coffee ☕️😋
