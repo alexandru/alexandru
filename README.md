@@ -6,10 +6,7 @@
 
 ### Elsewhere
 
-* Mastodon: <a rel="me" href="https://social.alexn.org/@alexelcu">https://social.alexn.org/@alexelcu</a>
-* Twitter: https://twitter.com/alexelcu
-* YouTube: https://youtube.com/alexelcu
-* LinkedIn: https://www.linkedin.com/in/alexelcu/
+<img src="https://alexn.org/assets/logo/mastodon.svg" width="32" height="32" /> <a rel="me" href="https://social.alexn.org/@alexelcu">Mastodon</a> <br>
 
 ### Donate
 
