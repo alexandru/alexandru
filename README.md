@@ -6,7 +6,7 @@
 
 ### Elsewhere
 
-<img src="https://alexn.org/assets/logo/mastodon.svg" width="24" height="24" /> <a rel="me" href="https://social.alexn.org/@alexelcu">Mastodon</a> <br>
+<img src="https://alexn.org/assets/logo/mastodon.svg" width="16" height="16" style="vertical-align:middle;" /> <a rel="me" href="https://social.alexn.org/@alexelcu">Mastodon</a> <br>
 
 ### Donate
 
