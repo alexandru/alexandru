@@ -3,8 +3,15 @@
 🌍 <a href="https://alexn.org/">Personal Blog / Wiki</a> <br>
 🙋‍♂️ <a href="https://alexn.org/about/" rel="me">About Me</a> <br>
 📨 <a href="https://alexn.org/subscribe/">Subscribe</a> <br>
-⭐️ Also on 🌍 <a href="https://social.alexn.org/@alexelcu" rel="me">Mastodon</a> or 🕺<a href="https://www.linkedin.com/in/alexelcu/" rel="me" target="_blank">LinkedIn</a>
 
+### Elsewhere
+
+* Mastodon: <a rel="me" href="https://social.alexn.org/@alexelcu">https://social.alexn.org/@alexelcu</a>
+* Twitter: https://twitter.com/alexelcu
+* YouTube: https://youtube.com/alexelcu
+* LinkedIn: https://www.linkedin.com/in/alexelcu/
+
+### Donate
 
 Help me cover ongoing costs (hosting, tooling), or get me a coffee ☕️😋
 
