@@ -5,8 +5,6 @@
 📨 <a href="https://alexn.org/subscribe/">Subscribe</a> <br><br>
 🌐 <a rel="me" href="https://social.alexn.org/@alexelcu">Mastodon</a> <br>
 🌐 <a rel="me" href="https://www.linkedin.com/in/alexelcu/">LinkedIn</a> <br>
-🌐 <a rel="me" href="https://twitter.com/alexelcu">Twitter</a> <br>
-🌐 <a rel="me" href="https://www.facebook.com/alexelcu.page">Facebook</a> <br>
 
 Help me cover ongoing costs (hosting, tooling), or get me a coffee ☕️😋
 
