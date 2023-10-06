@@ -4,7 +4,7 @@
 🙋‍♂️ <a href="https://alexn.org/about/" rel="me">About Me</a> <br>
 📨 <a href="https://alexn.org/subscribe/">Subscribe</a> <br>
 
-🌐 <a rel="me" href="https://hachyderm.io/@alexelcu">Mastodon</a> <br>
+🌐 <a rel="me" href="https://social.alexn.org/@alexelcu">Mastodon</a> <br>
 🌐 <a rel="me" href="https://www.linkedin.com/in/alexelcu/">LinkedIn</a> <br>
 🌐 <a rel="me" href="https://twitter.com/alexelcu">X / Twitter</a> <br>
 
