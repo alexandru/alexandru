@@ -5,8 +5,9 @@
 📨 <a href="https://alexn.org/subscribe/">Subscribe</a> <br>
 
 🌐 <a rel="me" href="https://social.alexn.org/@alexelcu">Mastodon</a> <br>
+🌐 <a rel="me" href="https://bsky.app/profile/alexn.org">Bluesky</a> <br>
+🌐 <a rel="me" href="https://x.com/alexelcu">𝕏 (Twitter)</a> <br>
 🌐 <a rel="me" href="https://www.linkedin.com/in/alexelcu/">LinkedIn</a> <br>
-🌐 <a rel="me" href="https://twitter.com/alexelcu">X / Twitter</a> <br>
 
 Help me cover ongoing costs (hosting, tooling), or get me a coffee ☕️😋
 
